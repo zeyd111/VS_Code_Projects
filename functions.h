@@ -120,4 +120,4 @@ int rulet(int pieces)
         return 1 + rulet(x + 1);
     }
     return 1 + rulet(x);
-}
+} 
